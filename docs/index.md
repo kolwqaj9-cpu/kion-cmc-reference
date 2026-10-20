@@ -8,51 +8,57 @@ This document assembles public reference material on the subject into one browsa
 
 ## Contents
 
-1. Time-Dependent Stress Rupture Strength Degradation of Hi-Nicalon Fiber-Reinforced Silicon Carbide Composites at Intermediate Temperatures
-
+1. Time-Dependent Stress Rupture Strength Degradation of Hi-Nicalon Fiber-Reinforced Silicon Carbide Composites at Intermed
 2. Oxidation of an Environmental Barrier Coated Ceramic Matrix Composite in a Combustion Environment
-
-3. Oxidation of an Environmental Barrier Coated Ceramic Matrix Composite in a Combustion Environment (second report)
-
+3. Oxidation of an Environmental Barrier Coated Ceramic Matrix Composite in a Combustion Environme
 4. Thermal Residual Stress in Environmental Barrier Coated Silicon Nitride - Modeled
-
 5. Oxidation Study of an Ultra High Temperature Ceramic Coatings Based on HfSiCN
-
 6. Crack Opening Displacement Behavior in Ceramic Matrix Composites
-
-7. Environmental Stability and Oxidation Behavior of HfO2-Si and YbGd(O) Based Environmental Barrier Coating Systems for SiC
-
+7. Environmental Stability and Oxidation Behavior of HfO2-Si and YbGd(O) Based Environmental Barrier Coating Systems for Si
 8. A Review of Direct Ink Writing of Polymer Derived Ceramics
-
-9. Damage Characterization of EBC-SiC/SiC Ceramic Matrix Composites Under Imposed Thermal Gradient Testing
-
-10. Oxidation Study of an Ultra High Temperature Ceramic Coatings Based on HfSiCN (variant)
-
-11. Compact, Lightweight, Ceramic Matrix Composite (CMC) Based Acoustic Liners for Reducing Subsonic Jet Aircraft Engine Noise
-
-12. Oxidation Study of an Ultra High Temperature Ceramic Coatings Based on HfSiCN (variant 2)
-
+9. Damage Characterization of EBC-SiCSiC Ceramic Matrix Composites Under Imposed Thermal Gradient Testing
+10. Oxidation Study of an Ultra High Temperature Ceramic Coatings Based on HfSICN
+11. Compact, Lightweight, Ceramic Matrix Composite (CMC) Based Acoustic Liners for Reducing Subsonic Jet Aircraft Engine Noi
+12. Oxidation Study of an Ultra High Temperature Ceramic Coatings Based on HfSiCN
 13. Characterization of SiC Fiber (SCS-6) Reinforced-Reaction-Formed Silicon Carbide Matrix Composites
-
-14. Methods for Producing High-Performance Silicon Carbide Fibers, Architectural Preforms, and High-Temperature Composites
-
+14. Methods for Producing High-Performance Silicon Carbide Fibers, Architectural Preforms, and High
 15. Characterization of SiC (SCS-6) Fiber Reinforced Reaction-Formed Silicon Carbide Matrix Composites
-
 16. Oxidation Behavior of Carbon Fiber Reinforced Silicon Carbide Composites
-
 17. Process for making silicon carbide reinforced silicon carbide composite
-
 18. Tests of NASA ceramic thermal barrier coating for gas-turbine engines
-
 19. Silicon carbide reinforced silicon carbide composite
-
 20. Silicon nitride: A ceramic material with outstanding resistance to thermal shock and corrosion
-
-21. Joining and Assembly of Silicon Carbide-based Advanced Ceramics and Composites for High Temperature Applications
-
+21. Joining and Assembly of Silicon Carbide-based Advanced Ceramics and Composites for High Tempera
 22. Oxidation of Carbon Fibers in a Cracked Ceramic Matrix Composite Modeled as a Function of Temperature
 
+## 1. Time-Dependent Stress Rupture Strength Degradation of Hi-Nicalon Fiber-Reinforced Silicon Carbide Composites at Intermed
 
-## Source and scope
+Primary source: <https://ntrs.nasa.gov/citations/20160001159>
 
-Every entry corresponds to a page on the archive. The full index, with ordered navigation by subject, is kept at [kiondefense.com](https://kiondefense.com).
+rom Figure 7 in Gauthier and Lamon (Ref. 11) and the solid lines are a plot of Equation (6) using the constants listed in Table 1. The plots of t versus f obtained from Equation (6) and the constants in Table 1 provides a very good match to those from the previous authors. Both sets of plots encapsulate almost all of the NASA/TM—2016-218939 6 TABLE 1.—TABLE OF CONSTANTS FOR THE Pf –  – t MODEL FOR Hi-NICALON FIBERS AT INTERMEDIATE TEMPERATURES n m )MPa( mKIc  )MPa(oS )(mLo )MPa( 2/)2(12 1 nn msY   9 4.3 1.4 61 0.025 3.0410–20 single fiber data points from Gauthier and Lamon (Ref. 11). Note that in Table 1 the quantities Y and 1 are not treated separately, but are accounted for by the product 2 1 Y . This eliminates the need to identify the shape of the flaws, since the value of the product 2 1 Y is determined directly from the aforementioned treatment of the test data. The
+
+calon Type S tows was measured at various constant applied stress levels and test temperatures. The analyses reported here are focused on the Hi-Nicalon tests performed at 800 °C only. The Hi-Nicalon tows contained five hundred fibers (No = 500). The constants listed in Table 1 were used as input to Equation (7). The results of four progressive failure simulations are shown in Figure 3. The results are shown for simulations which used an initial tow tensile stress of 1100, 800, 600, and 400 MPa. The stress in the fibers is plotted in Figure 3(a) and the number of unbroken fibers is plotted in Figure 3(b). Both sets of results are plotted as a function of time. The time at which failure of the tow occurred in each of the simulations is obvious from the results in Figure 3. (a) (b) Figure 3.—Numerical results from progressive failure analysis of Hi- Nicalon tow tensile tests at 800 °C. Res
+
+o series of progressive failure analysis solutions: a multiple matrix crack formulation with no fiber damage and a multiple matrix crack formulation with 9 percent fiber damage. Both sets of progressive failure analysis solutions used a shear stress value of 5 MPa. NASA/TM—2016-218939 15 matrix crack equilibrium equation and a shear stress value of 5 MPa. Notice that the progressive failure analysis solutions using a shear stress of 5 MPa and 9 percent fiber damage produced a very similar set of results as the solutions shown in Figure 6 that used a shear stress of 3.5 MPa and no fiber damage. In both cases, the predicted strengths are very close to the measured fast fracture strength and there is only a small difference between the measured and predicted composite strengths at later times. A third possible reason for the discrepancy between the baseline progressive failure analysis solu
+
+(13) applies as 0/ xl . Otherwise, Equation (15) is the more appropriate choice. The value of l/x was calculated for the range of composite stresses used in the tensile tests that produced the results shown in Figure 1. The slip length was calculated at each composite stress value from l = TR/2τ using τ = 5 MPa and R = 7 µm. The crack spacing results obtained from Morscher and Cawley (Ref. 7) were used to calculate the ratio l/x as a function of composite stress. Note that the crack spacing data was extended to higher composite stress values since the highest stress in the crack density study by Morscher and Cawley (Ref. 7) was only 227 MPa. This is indicated with a dashed line and hollow markers in Figure 5. It was extended under the assumption that crack saturation was reached at 180 MPa. The slip length-to-crack spacing ratio is also plotted as a function of composite stress in Figur
+
+in the specimen gage section, in the direction of loading, was (12.6 mm/25.4)(17 epi)(8 plies)  67.5 tows and the number of fibers which are initially unbroken is No = 67.5(500) = 33,750. The thickness of 8 plies is 2.1 mm and the average fiber radius is R = 7 µm. Thus, the initial fiber volume fraction in the direction of loading is f = 0.1965. Morscher and Cawley (Ref. 7) measured the crack density as a function of the applied composite stress for Hi-Nicalon-reinforced silicon carbide composite specimens. The crack density study was performed on a Hi-Nicalon composite similar to the test material that produced the results shown in Figure 1. The results of the crack density study by Morscher and Cawley (Ref. 7) are shown in Figure 5; the crack spacing, which is the inverse of the crack density, is plotted as a function of the composite stress. These results indicate that the matrix cra
+
+pe in Hi-Nicalon fibers, as it reveals the scatter in the product tn f . One can imagine a series of curves of the form Atn f  , each one with a different value of A and each one passing through one or more of the single fiber data points in Figure 2. The values for the constants in Equation (6), which will be used in the progressive failure analyses, are listed in Table 1. Some of the values listed were the values listed in Table III of Gauthier and Lamon (Ref. 11) for Hi-Nicalon fibers. The rest were obtained by fitting Equation (6) to match the plots of time- to-failure versus fiber stress at specific values of the probability of failure. This is illustrated by the plots of t versus f at Pf = 99.8% and Pf = 0.2% shown in Figure 2. The dashed lines are the lines from Figure 7 in Gauthier and Lamon (Ref. 11) and the solid lines are a plot of Equation (6) using the constants listed i
+
+s: a single crack formulation (using Eq. (13) as equilibrium equation) with = 5 MPa, a multiple crack formulation (using Eq. (15) as equilibrium equation) with = 5 MPa and a multiple crack formulation with = 3.5 MPa. A series of progressive failure analyses were performed for each set of solution parameters. Within each series, progressive failure analyses were performed for a variety of applied composite stress magnitudes and the time-to-failure was calculated for each stress magnitude. The results from three series of progressive failure analysis solutions are shown as the solid black lines in Figure 6. The experimental results from Morscher, Hurst and Brewer (Ref. 1) are included for comparison. One series of solutions assumed a single matrix crack and used Equation (13) as the equilibrium equation. A shear stress value of 5 MPa was used in these solutions. Another series of sol
+
+r shear stress value shifts the results either to a lower composite strength or a shorter time-to-failure, since using a lower shear stress value will result in a longer slip length and thus a lower probability of survival for the same composite stress magnitude. The results in Figure 6 show that by reducing the shear stress to a value of 3.5 MPa, there is good agreement between the predicted results and the measured fast fracture strength. Note that the value of 3.5 MPa is very close to the value obtained by Marshall and Evans (Ref. 22) for other SiC fiber-reinforced ceramic composites. They consistently obtained values in the range of 2 to 2.5 MPa using multiple techniques. Note also that, for the multiple matrix crack solutions using a shear stress value of 3.5 MPa, there is a small difference between the measured and predicted composite strengths at later times. The matrix cracking s
+
+3. (a) (b) Figure 3.—Numerical results from progressive failure analysis of Hi- Nicalon tow tensile tests at 800 °C. Results are shown for numerical simulations using an initial fiber stress loading of 1100, 800, 600, and 400 MPa. (a) Fiber stress versus time. (b) Number of unbroken fibers versus time. NASA/TM—2016-218939 8 Figure 4.—Initial applied stress versus time-to-fail ure from tensile tests on Hi-Nicalon tows at 800 °C. Measured data from Gauthier and Lamon (Ref. 11) are shown as black squares. Dashed line is a curve- fit to the experimental data from Gauthier and Lamon (Ref. 11). Numerical results from progressive failure analysis are shown as the solid line with hollow circular markers. Figure 4 is a comparison of the measured and predicted results from the tow tensile tests. Here the applied stress is plotted as a function of time-to-failure. The experimental measurements from
+
+verse of the crack density, is plotted as a function of the composite stress. These results indicate that the matrix cracking stress is  mc130 MPa and that the matrix crack spacing at saturation is x = 0.4 mm. Given these results, and using x = 1.337lm and Equation (8), an approximate shear stress value of 5 MPa is obtained. NASA/TM—2016-218939 12 Figure 5.—Composite plot of crack spac ing and ratio of slip length-to-crack spacing versus composite stress. Crack spacing versus composite stress data was obtained from crack density versus composite stress data on Hi-Nicalon composites reported in Morscher and Cawley (Ref. 7). The choice of whether the single or multiple matrix crack equilibrium equation is more appropriate depends on the value of the ratio l/x. Equation (13) applies as 0/ xl . Otherwise, Equation (15) is the more appropriate choice. The value of l/x was calculated for th
+
+## Service pages maintained with this archive
+
+The reference notes above support the production work documented on the shop's own service pages:
+
+* **[CMC Component Manufacturing — Specification Guide](https://kiondefense.com/services/cmc-component-manufacturing.html)** — Guide to CMC component manufacturing: fiber preform layup, PIP, CVI, and melt infiltration, densification cycles, diamond machining, and NDE for porosity.
+* **[Ceramic Coating Service — Specification Guide](https://kiondefense.com/services/ceramic-coating-service.html)** — Specify a high-temperature ceramic coating job: substrate prep, bond coat, thickness, cure and pyrolysis, thermal cycling, and acceptance tests for precisi
+* **[High Temperature Material Selection — Specification Guide](https://kiondefense.com/services/high-temperature-material-selection.html)** — Guide to high-temperature material selection: continuous vs excursion temperature, oxidation and volatilization limits, thermal shock, creep, and ceramic c
